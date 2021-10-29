@@ -6,6 +6,9 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    QFont tfont = ui->title->font();
+    tfont.setPointSize(18);
+    ui->title->setFont(tfont);
 }
 
 MainWindow::~MainWindow()
