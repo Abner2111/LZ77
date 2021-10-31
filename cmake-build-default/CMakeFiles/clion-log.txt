@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\abner\Documents\LZ77
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\abner\Documents\LZ77
 -- The CXX compiler identification is GNU 8.1.0
 -- Detecting CXX compiler ABI info
 -- Detecting CXX compiler ABI info - done
@@ -20,4 +20,4 @@ CMake Error at CMakeLists.txt:14 (find_package):
 
 
 -- Configuring incomplete, errors occurred!
-See also "D:/abner/Documents/LZ77/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "D:/abner/Documents/LZ77/cmake-build-default/CMakeFiles/CMakeOutput.log".

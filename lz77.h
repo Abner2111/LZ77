@@ -15,9 +15,6 @@ public:
     string getDecompressed(vector<string> triplets);
 private:
     
-
-
-
 };
 
 
